@@ -1,0 +1,11 @@
+1.04- Added the following in the i18n file:
+
+"config.AlternativeTextureToddlerSprites.description": 
+
+"Kid1_MV_13":
+
+1.10- 
+
+Added 3 events and additional dialogues for these events- Plush Part 1, Plush Part 2, Plush Part 3
+Added additional dialogues for Paula
+Added TwoKidsTort4_Irene
