@@ -262,10 +262,10 @@
 	"kid2_Forest_13": "ส่วนวินเซนท์กับลูกชายของเรา...",
 	"kid2_Forest_13_girl": "ส่วนวินเซนท์กับลูกสาวของเรา...",
 	"kid2_Forest_14": "ก็กำลังเล่นสนุกกับเจ้ากระรอกขนฟู...$h",
-	"kid2_Forest_15": "ช่างเป็นวันที่สงบสุขและน่ารื่นรมย์จริงๆ...จริงไหม?$h",
+	"kid2_Forest_15": "ช่างเป็นวันที่สงบสุขและน่ารื่นรมย์...จริงไหม?$h",
 	// kid2_Forest
-	"kid2_Forest_Jas": "%kid2' is too cute! Can I feed her again, pretty please?$h",
-	"kid2_Forest_Vincent": "Hehe, %kid1 and me, we gonna catch Mister Squirrel next time!$h",
+	"kid2_Forest_Jas": "%kid2 น่ารักมากเลย! ขอหนูป้อนนมอีกได้ไหม?$h",
+	"kid2_Forest_Vincent": "อิอิ %kid1 กับผม ครั้งหน้าจะจับลุงกระรอกให้ได้เลย!$h",
 	// mod
 	"kid2_Forest_Lenny": "Hmph! Can't believe you went on a picnic and didn't think of me, how mean!$a",
 	"kid2_Forest_Yuuma": "I was near Aunt Marnie's place and noticed you were having a picnic.#$b#Can I come along next time?$h",
@@ -277,14 +277,22 @@
 	"kid2_Forest_Jean": "Jorts, no! We can't let %kid2 eat this! He's just a little baby!$4",
 	"kid2_Forest_Jean_girl": "Jorts, no! We can't let %kid2 eat this! She's just a little baby!$4",
 	"kid2_Forest_": "",
+
 	//Event 5 (Jodi) 172421006 
-	"Kid2_3H_01": "I'm sorry for troubling you once again, we were hoping you could lend a hand in babysitting %kid2 today.$s#$b#@ is busy with mining, and it falls upon me to take %kid1 for medical check-up.#$b#Afterward, I still need to go shopping for household items and attend to some work-related matters.",
-	"Kid2_3H_01_Sam": "I'm sorry for troubling you once again, Mom. We were hoping you could lend a hand in babysitting %kid2 today.$s#$b#@ is busy with mining, and it falls upon me to take %kid1 for medical check-up.#$b#Afterward, I still need to go shopping for household items and attend to some work-related matters.",
-	"Kid2_3H_02": "Today is going to be quite hectic, and while I can handle %kid1 since she's older, %kid2 is still too young. It wouldn't be suitable for him to tag along.#$b#He might get overwhelmed, I would be worried about %kid2 crying and causing a ruckus.$s",
-	"Kid2_3H_02_girl": "Today is going to be quite hectic, and while I can handle %kid1 since he's older, %kid2 is still too young. It wouldn't be suitable for her to tag along.#$b#She might get overwhelmed, I would be worried about %kid2 crying and causing a ruckus.$s",
+	"Kid2_3H_01": "ฉันขอโทษที่รบกวนคุณอีกครั้ง พอดีว่าวันนี้อยากจะขอให้คุณช่วยดูแล %kid2 ให้หน่อยได้ไหม?$s#$b#@ กำลังยุ่งอยู่กับงานที่เหมือง ส่วนฉันมีนัดพา %kid1 ไปตรวจร่างกาย#$b#หลังจากนั้นต้องไปซื้อของเข้าบ้านและจัดการเรื่องงานอีก",
+	
+	"Kid2_3H_01_Sam": "ผมขอโทษที่รบกวนแม่บ่อยๆ นะครับ พอดีว่าวันนี้อยากจะขอฝากเลี้ยง %kid2 ได้ไหมครับ?$s#$b#@ กำลังยุ่งอยู่กับงานที่เหมือง ส่วนฉันมีนัดพา %kid1 ไปตรวจร่างกาย#$b#หลังจากนั้นต้องไปซื้อของเข้าบ้านและจัดการเรื่องงานอีก",
+	
+	"Kid2_3H_02": "วันนี้เป็นวันที่ค่อนข้างวุ่นวายเลย ฉันสามารถพา %kid1 ได้ด้วยได้ แต่ %kid2 ยังเล็กเกินไป ไม่เหมาะที่จะพาเค้าไปด้วยได้#$b#กลัวว่าเค้าจะร้องไห้เสียงดังรบกวนคนอื่น$s",
+	
+	"Kid2_3H_02_girl": "วันนี้เป็นวันที่ค่อนข้างวุ่นวายเลย ฉันสามารถพา %kid1 ได้ด้วยได้ แต่ %kid2 ยังเล็กเกินไป ไม่เหมาะที่จะพาเธอไปด้วยได้#$b#กลัวว่าเธอจะร้องไห้เสียงดังรบกวนคนอื่น$s",
+	
 	"Kid2_3H_03": "Oh, come on, %spouse, please don't feel like you're imposing. It's just a little favor, you can always count on me for babysitting.#$b#Vincent and Jas are really fond of %kid2. They're also delighted to have a baby around.$h",
+	
 	"Kid2_3H_03_Sam": "Oh, come on, Sam, please don't feel like you're imposing. You can always count on your mom for babysitting.#$b#Vincent and Jas are really fond of %kid2. They're also delighted to have a baby around.#$b#And I'm looking forward to bonding with my sweet grandchild even more.$h",
+	
 	"Kid2_3H_04": "Oh, thank you so much, you're a lifesaver.$h#$b#Well, I should be on my way now...",
+	
 	"Kid2_3H_04_Sam": "Oh, thank you so much, Mom, you're a lifesaver.$h#$b#Well, I should be on my way now...",
 	"Kid2_3H_05": "Hold on a second, wasn't %kid1 just in the living room? Where did she vanish to?$a#$b#She didn't sneak out, did she? Oh no...$s",
 	"Kid2_3H_05_girl": "Hold on a second, wasn't %kid1 just in the living room? Where did he vanish to?$a#$b#He didn't sneak out, did he? Oh no...$s",
@@ -295,6 +303,8 @@
 	"Kid2_3H_10": "Ah, darn it, Vincent!!!!$3",
 	"Kid2_3H_11": "%Thankfully, we later found out that %kid2 had simply been holding the stone in his mouth and hadn't swallowed it.#$b#%And as for %kid1, she might have plunged into the river if the fisherman hadn't been there to spot her... But that's a story for another time...",
 	"Kid2_3H_11_girl": "%Thankfully, we later found out that %kid2 had simply been holding the stone in her mouth and hadn't swallowed it.#$b#%And as for %kid1, he might have plunged into the river if the fisherman hadn't been there to spot him... But that's a story for another time...",
+	
+	
 	// kid2_3h
 	"kid2_3h_Vincent": "I'm really, really sorry! I promise I won't give %kid2 any more small things to play with...$s",
 	"kid2_3h_Jas": "I'm sorry, farmer @. I should have stopped Vincent earlier.$s",
